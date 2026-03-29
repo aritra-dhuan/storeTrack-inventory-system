@@ -16,6 +16,7 @@ A lightweight Java-based inventory management application designed for small bus
 ---
 
 ## 🏗️ Project Structure
+'''
 
 storeTrack/
 │
@@ -24,6 +25,8 @@ storeTrack/
 ├── CartItem.java       # Represents items added to cart
 ├── Bill.java           # Handles billing logic and calculations
 ├── Main.java           # Entry point (menu-driven interface)
+
+'''
 
 ---
 
