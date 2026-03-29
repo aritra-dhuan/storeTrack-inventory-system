@@ -17,7 +17,7 @@ A lightweight Java-based inventory management application designed for small bus
 
 ## 🏗️ Project Structure
 
-StoreTrack/
+storeTrack/
 │
 ├── Product.java        # Defines product attributes (id, name, price, stock)
 ├── Inventory.java      # Manages product storage and operations
@@ -49,10 +49,10 @@ StoreTrack/
 ### 🔹 Steps to Execute
 
 1. Clone the repository
-   git clone https://github.com/aritra-dhuan/storetrack-inventory-system.git
+   git clone https://github.com/aritra-dhuan/storeTrack-inventory-system.git
 
 2. Navigate to the project folder
-   cd storetrack-inventory-system
+   cd storeTrack-inventory-system
 
 3. Compile all Java files
    javac *.java
