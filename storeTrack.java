@@ -201,7 +201,7 @@ class Bill{
     }
 }
 
-public class Project {
+public class storeTrack {
 
     public static void main(String[] args) {
 
