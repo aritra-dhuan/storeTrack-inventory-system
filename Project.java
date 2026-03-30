@@ -188,7 +188,7 @@ class Bill{
     }
 
     public void printBill() {
-        System.out.println("size------ Your Bill ------");
+        System.out.println("------ Your Bill ------");
         for (CartItem item : items) {
             System.out.println(
                 item.getProduct().getLabel() +
@@ -201,7 +201,7 @@ class Bill{
     }
 }
 
-public class Project_1 {
+public class Project {
 
     public static void main(String[] args) {
 
@@ -217,7 +217,7 @@ public class Project_1 {
         int choice;
 
         do {
-            System.out.println("size====== Inventory System ======");
+            System.out.println("====== StoreTrack Inventory System ======");
             System.out.println("1. View Products");
             System.out.println("2. Add Stock");
             System.out.println("3. Add to Cart");
@@ -309,7 +309,7 @@ public class Project_1 {
                     break;
 
                 case 11:
-                    System.out.println("Alright, shutting things down. Bye!");
+                    System.out.println("Alright, shutting things down !!!");
                     break;
             }
 
